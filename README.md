@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Otávio!
 
-Sou um Desenvolvedor Fullstack com forte interesse por **infraestrutura, automação e arquitetura de software**. Minha trajetória é marcada por uma visão analítica e prática: já identifiquei ineficiências logísticas que geraram economia de R$ 6.240/ano e hoje construo soluções do código ao deploy.
+Sou um Desenvolvedor Fullstack com forte interesse por **infraestrutura, automação e arquitetura de software**. Minha trajetória é marcada por uma visão analítica e prática.
 
 ---
 
