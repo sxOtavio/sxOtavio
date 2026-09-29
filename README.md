@@ -25,13 +25,13 @@ Git · GitHub · VS Code · Metodologias Ágeis (Scrum/Kanban)
 
 ### 📌 Projetos em Destaque
 
-#### [MMP - E-commerce com Next.js](https://github.com/sxOtavio/mmp)
+#### [MMP - E-commerce com Next.js](https://mmp-navy.vercel.app/)
 > E-commerce com **4.157 produtos**, integração PagBank e arquitetura híbrida (Vercel + API de imagens no homelab).
 
-#### [KanBunny - Kanban Task Management](https://github.com/sxOtavio/kanbunny)
+#### [KanBunny - Kanban Task Management](https://releitura-trello-react.vercel.app/)
 > Sistema Kanban com drag-and-drop que reduziu o tempo de movimentação de tarefas em **50%**.
 
-#### [Homelab - Infraestrutura e Deploy](https://github.com/sxOtavio/homelab)
+#### [Homelab - Infraestrutura e Deploy](https://otaviosx.cheetah-bull.ts.net)
 > Servidor próprio com Docker, Nginx, PostgreSQL e Tailscale para deploy de aplicações reais.
 
 ---
